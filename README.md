@@ -21,11 +21,6 @@ Você estará livre para usar qualquer ferramenta/framework que quiser para auto
 
 O Projeto deve ter uma documentação readme.md explicando tudo que será necessário fazer para instalar as dependencias do projeto e como rodá-lo, preferencialmente em inglês (apenas o readme.md), mas se quiser escrever em português, fique à vontade. Não se esqueça de seprar os bugs/melhorias e seus anexos na pasta `bugs `.
 
-### Entrega
-
-A entrega será feita por meio do github, para todas partes do projeto.
-Você deverá criar um repositório no github.com e nos enviar o link para que a gente possa cloná-lo e executá-lo sem dificuldades quando estiver pronto. Você não poderá commitar depois da deadline. Quaisquer commits posteriores deadline não poderão ser considerados.
-**O deadline vai ser de 7 dias corridos a partir do momento que você receber estes requisitos.**
 
 ### Parte 1 - Feature WEB:
 Criar casos de teste baseados no seu entendimento do que a feature de busca e visualização de detalhe de cursos da nossa home deve fazer. 
@@ -56,14 +51,3 @@ Automatizar todos exemplos de GET e POST desse recurso.
 **Endereço da API:** https://jsonplaceholder.typicode.com/
 
 Neste endereço acima estarão as especificações do endpoint que será testado.
-
-
-
-### Resumo e últimas considerações
-* Todas as partes serão entregues através do git, sendo os casos de testes em formato de arquivos `.feature` usando framework de BDD da linguagem que estiver usando. Ou se não for BDD, num arquivo contendo os casos de teste escritos. 
-* Não se esqueça do arquivo `readme.md` descrevendo como executar o projeto.
-* Nem todos casos de testes deverão ser automatizados.
-* Se não encontrar bugs, crie pelo menos algum ticket de melhoria.
-* Se quiser criar tickets de bug/melhoria que encontrar em outras partes do nosso site, também é bastante válido. Assim conseguimos te avaliar melhor.
-* O deadline vai ser de *7 dias corridos a partir do momento que você receber estes requisitos.* Por favor não realize commits depois da data da entrega descrita.
-* O projeto irá ser usado para avaliar suas habilidades e deve funcionar completamente e ser executável por nós sem problemas. Vamos avaliar o projeto como se fosse uma entrega de trabalho normal.
